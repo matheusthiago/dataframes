@@ -62658,12 +62658,6 @@ rbpi3a-4cpu;0:12.86;fog;ssa;8;8
 rbpi3a-4cpu;0:14.12;fog;ssa;8;5
 rbpi3a-4cpu;0:16.71;fog;ssa;8;6
 rbpi3a-4cpu;0:18.21;fog;ssa;8;7
-rbpi3a-4cpu;0:00.01;fog;ssa;8;1
-rbpi3a-4cpu;0:00.01;fog;ssa;8;2
-rbpi3a-4cpu;fog;ssa;8;3
-rbpi3a-4cpu;0:00.01;fog;ssa;8;4
-rbpi3a-4cpu;0:00.01;fog;ssa;8;5
-rbpi3a-4cpu;fog;ssa;8;6
 rbpi3a-4cpu;0:02.53;fog;ssa;8;8
 rbpi3a-4cpu;0:02.83;fog;ssa;8;7
 rbpi3a-4cpu;0:04.99;fog;ssa;8;3
