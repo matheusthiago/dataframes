@@ -1,0 +1,2067 @@
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00 0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00 0,01
+rede;0,01 0,00 0,01
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;
+rede;
+rede;0,00
+rede;0,00
+rede;0,01
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00 0,00
+rede;0,01 0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,01
+rede;0,01 0,00 0,00 0,00 0,01 0,00
+rede;0,01 0,00 0,00 0,00 0,01 0,00 0,01
+rede;0,01 0,00 0,00 0,00 0,01 0,00 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,01 0,00 0,01
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00 0,01
+rede;0,00 0,01 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00 0,01
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00 0,01 0,01
+rede;0,00 0,01 0,01
+rede;0,00 0,01 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,01 0,00 0,01 0,00
+rede;0,01 0,00 0,01 0,00 0,01
+rede;0,01 0,00 0,01 0,00 0,01 0,00
+rede;0,01 0,00 0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,01 0,00 0,00 0,01
+rede;0,01 0,00 0,01 0,00 0,01 0,00 0,00 0,01 0,00
+rede;0,01 0,00 0,01 0,00 0,01 0,00 0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,01 0,00 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00
+rede;0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,01
+rede;0,00 0,01 0,00 0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,01 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,01 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,01
+rede;0,01 0,00 0,00 0,00 0,01 0,01
+rede;0,01 0,00 0,00 0,00 0,01 0,01 0,01
+rede;0,01 0,00 0,00 0,00 0,01 0,01 0,01 0,00
+rede;0,01 0,00 0,00 0,00 0,01 0,01 0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00 0,01 0,01 0,01 0,00 0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,01 0,00 0,01 0,00
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00 0,00 0,01
+rede;0,01 0,00 0,01 0,00 0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,01
+rede;0,00 0,00 0,01 0,01
+rede;0,00 0,00 0,01 0,01 0,00
+rede;0,00 0,00 0,01 0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,01 0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;
+rede;
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,01
+rede;
+rede;0,01
+rede;0,01
+rede;0,01 0,01
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01 0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00 0,00
+rede;0,01 0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,01 0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,00 0,01 0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,00
+rede;
+rede;0,01
+rede;0,01
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,01
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,01
+rede;
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01 0,00
+rede;0,00 0,01
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,01 0,01 0,00 0,00
+rede;0,01 0,01 0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,01 0,01
+rede;0,00 0,00 0,01 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;
+rede;0,01 0,01
+rede;0,01 0,01
+rede;
+rede;0,01
+rede;0,01
+rede;0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00 0,00
+rede;0,00 0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00 0,01 0,00 0,01
+rede;0,00 0,01 0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,00 0,01 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00 0,00 0,01 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00 0,00
+rede;0,01 0,00 0,00
+rede;0,01
+rede;0,01 0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,00
+rede;
+rede;0,01
+rede;0,01
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,01
+rede;0,00
+rede;0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00 0,01
+rede;0,00 0,01
+rede;0,01
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00
+rede;0,01 0,00 0,01
+rede;0,01 0,00 0,01 0,00
+rede;0,00
+rede;
+rede;0,01 0,01
+rede;0,01 0,01
+rede;0,01 0,01 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,01
+rede;0,00 0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,01
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,01
+rede;0,01 0,00
+rede;0,00
+rede;0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00
+rede;0,00 0,00
+rede;0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00
+rede;0,00 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,01 0,00 0,00 0,00 0,00
